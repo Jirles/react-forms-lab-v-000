@@ -10,6 +10,12 @@ class LoginForm extends React.Component {
     };
   }
 
+  handleChange = (e) => {
+    setState({
+
+    })
+  }
+
   render() {
     return (
       <form>
