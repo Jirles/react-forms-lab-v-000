@@ -10,6 +10,10 @@ class TwitterMessage extends React.Component {
     };
   }
 
+  handleMessageChange = (e) => {
+    
+  }
+
   render() {
     return (
       <div>
